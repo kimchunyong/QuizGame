@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "name": "QuizGame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kimchunyong/QuizGame.git",
+  "author": "chunyong <fr_lovemy5851>",
+  "license": "MIT"
+}
